@@ -25,7 +25,12 @@ function loadTable() {
         }
     };
 }
+//!
 loadTable();
+//!
+
+
+
 //* POST Data --------
 function showUserCreateBox() {
     Swal.fire({
